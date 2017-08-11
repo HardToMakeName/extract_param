@@ -33,7 +33,7 @@ dd::get_func_param_type_index<decltype(&MyTestKit::get), 0>::type;
 mkdir build
 cd build
 cmake ..
-./extrac_param.sln
+./extract_param.sln
 ```
 
 ## 其他
